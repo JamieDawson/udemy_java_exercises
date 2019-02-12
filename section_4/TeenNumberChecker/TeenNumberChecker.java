@@ -4,7 +4,7 @@ public class TeenNumberChecker {
         if (isTeen(one) == true)
             System.out.println("this is true");
         else
-            System.out.println("false as hell");
+            System.out.println("this is false");
     }
 
     public static boolean hasTeen(int one, int two, int three)
